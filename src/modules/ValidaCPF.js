@@ -44,4 +44,4 @@ export default class ValidaCPF {
     }
 }
 
-console.log()
+console.log('Cheguei Aqui.');
