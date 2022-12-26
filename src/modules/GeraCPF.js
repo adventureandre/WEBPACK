@@ -10,8 +10,7 @@ export default class GeraCPF {
             cpf.slice(0, 3) + "." +
             cpf.slice(3, 6) + "." +
             cpf.slice(6, 9) + "-" +
-            cpf.slice(9, 11)+
-        console.log("aki");
+            cpf.slice(9, 11)
         );
     }
 
